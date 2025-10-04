@@ -1,4 +1,5 @@
-Hello guys this is demo details for git.
+Hello guys this is demo details for GitHub.
 Hello welcome back to learning.
 print("hello world")
 sai entered project
+tk loves tsk
